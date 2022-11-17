@@ -1,0 +1,22 @@
+C:\Users\Groovy Primat\Desktop\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\bin\Debug\WFA_MarsGame.exe.config
+C:\Users\Groovy Primat\Desktop\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\bin\Debug\WFA_MarsGame.exe
+C:\Users\Groovy Primat\Desktop\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\bin\Debug\WFA_MarsGame.pdb
+C:\Users\Groovy Primat\Desktop\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\obj\Debug\WFA_MarsGame.csproj.AssemblyReference.cache
+C:\Users\Groovy Primat\Desktop\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\obj\Debug\WFA_MarsGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Groovy Primat\Desktop\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\obj\Debug\WFA_MarsGame.Form1.resources
+C:\Users\Groovy Primat\Desktop\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\obj\Debug\WFA_MarsGame.Properties.Resources.resources
+C:\Users\Groovy Primat\Desktop\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\obj\Debug\WFA_MarsGame.csproj.GenerateResource.cache
+C:\Users\Groovy Primat\Desktop\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\obj\Debug\WFA_MarsGame.csproj.CoreCompileInputs.cache
+C:\Users\Groovy Primat\Desktop\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\obj\Debug\WFA_MarsGame.exe
+C:\Users\Groovy Primat\Desktop\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\obj\Debug\WFA_MarsGame.pdb
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\3.Hafta\3.Hafta - Ders 4\Ev Files\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\bin\Debug\WFA_MarsGame.exe.config
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\3.Hafta\3.Hafta - Ders 4\Ev Files\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\bin\Debug\WFA_MarsGame.exe
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\3.Hafta\3.Hafta - Ders 4\Ev Files\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\bin\Debug\WFA_MarsGame.pdb
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\3.Hafta\3.Hafta - Ders 4\Ev Files\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\obj\Debug\WFA_MarsGame.csproj.AssemblyReference.cache
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\3.Hafta\3.Hafta - Ders 4\Ev Files\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\obj\Debug\WFA_MarsGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\3.Hafta\3.Hafta - Ders 4\Ev Files\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\obj\Debug\WFA_MarsGame.Form1.resources
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\3.Hafta\3.Hafta - Ders 4\Ev Files\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\obj\Debug\WFA_MarsGame.Properties.Resources.resources
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\3.Hafta\3.Hafta - Ders 4\Ev Files\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\obj\Debug\WFA_MarsGame.csproj.GenerateResource.cache
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\3.Hafta\3.Hafta - Ders 4\Ev Files\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\obj\Debug\WFA_MarsGame.csproj.CoreCompileInputs.cache
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\3.Hafta\3.Hafta - Ders 4\Ev Files\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\obj\Debug\WFA_MarsGame.exe
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\3.Hafta\3.Hafta - Ders 4\Ev Files\3.Hafta - Hafta Sonu Evde Ders Tekrarı\WFA_MarsGame\WFA_MarsGame\obj\Debug\WFA_MarsGame.pdb

@@ -1,0 +1,24 @@
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\bin\Debug\WFA_TopSektirme.exe.config
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\bin\Debug\WFA_TopSektirme.exe
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\bin\Debug\WFA_TopSektirme.pdb
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.csproj.AssemblyReference.cache
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.Form1.resources
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.Properties.Resources.resources
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.csproj.GenerateResource.cache
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.csproj.CoreCompileInputs.cache
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.exe
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.pdb
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.Form2.resources
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\bin\Debug\WFA_TopSektirme.exe.config
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\bin\Debug\WFA_TopSektirme.exe
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\bin\Debug\WFA_TopSektirme.pdb
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.csproj.AssemblyReference.cache
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.csproj.SuggestedBindingRedirects.cache
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.Form1.resources
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.Form2.resources
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.Properties.Resources.resources
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.csproj.GenerateResource.cache
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.csproj.CoreCompileInputs.cache
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.exe
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_TopSektirme\WFA_TopSektirme\obj\Debug\WFA_TopSektirme.pdb

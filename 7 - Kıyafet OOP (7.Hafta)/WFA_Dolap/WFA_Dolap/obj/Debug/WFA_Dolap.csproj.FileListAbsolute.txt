@@ -1,0 +1,21 @@
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\29.03\WFA_Dolap\WFA_Dolap\bin\Debug\WFA_Dolap.exe.config
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\29.03\WFA_Dolap\WFA_Dolap\bin\Debug\WFA_Dolap.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\29.03\WFA_Dolap\WFA_Dolap\bin\Debug\WFA_Dolap.pdb
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\29.03\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\29.03\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.Form1.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\29.03\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.Properties.Resources.resources
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\29.03\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.csproj.GenerateResource.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\29.03\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\29.03\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.exe
+C:\Users\FatihGunalp\Desktop\Yzl3156Github\OOP\29.03\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.pdb
+C:\Full Stack Development Education - Bilge Adam\7.Hafta\7.Hafta - Ders 2 Salı\Kurs Files\WFA_Dolap\WFA_Dolap\WFA_Dolap\bin\Debug\WFA_Dolap.exe.config
+C:\Full Stack Development Education - Bilge Adam\7.Hafta\7.Hafta - Ders 2 Salı\Kurs Files\WFA_Dolap\WFA_Dolap\WFA_Dolap\bin\Debug\WFA_Dolap.exe
+C:\Full Stack Development Education - Bilge Adam\7.Hafta\7.Hafta - Ders 2 Salı\Kurs Files\WFA_Dolap\WFA_Dolap\WFA_Dolap\bin\Debug\WFA_Dolap.pdb
+C:\Full Stack Development Education - Bilge Adam\7.Hafta\7.Hafta - Ders 2 Salı\Kurs Files\WFA_Dolap\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.csproj.AssemblyReference.cache
+C:\Full Stack Development Education - Bilge Adam\7.Hafta\7.Hafta - Ders 2 Salı\Kurs Files\WFA_Dolap\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.csproj.SuggestedBindingRedirects.cache
+C:\Full Stack Development Education - Bilge Adam\7.Hafta\7.Hafta - Ders 2 Salı\Kurs Files\WFA_Dolap\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.Form1.resources
+C:\Full Stack Development Education - Bilge Adam\7.Hafta\7.Hafta - Ders 2 Salı\Kurs Files\WFA_Dolap\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.Properties.Resources.resources
+C:\Full Stack Development Education - Bilge Adam\7.Hafta\7.Hafta - Ders 2 Salı\Kurs Files\WFA_Dolap\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.csproj.GenerateResource.cache
+C:\Full Stack Development Education - Bilge Adam\7.Hafta\7.Hafta - Ders 2 Salı\Kurs Files\WFA_Dolap\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.csproj.CoreCompileInputs.cache
+C:\Full Stack Development Education - Bilge Adam\7.Hafta\7.Hafta - Ders 2 Salı\Kurs Files\WFA_Dolap\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.exe
+C:\Full Stack Development Education - Bilge Adam\7.Hafta\7.Hafta - Ders 2 Salı\Kurs Files\WFA_Dolap\WFA_Dolap\WFA_Dolap\obj\Debug\WFA_Dolap.pdb

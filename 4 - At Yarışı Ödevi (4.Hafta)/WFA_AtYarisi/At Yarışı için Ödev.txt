@@ -1,0 +1,3 @@
+OK 1-) Uygulama start olduğunda üç farklı zemin renginden bir tanesini tanımlansın bunlar; Kahverengi, yeşil ve gri olsun.
+OK 2-) Zemin kahverengi ise 1.at Kazansın, Yeşil ise 2 at kazansın, Gri ise 3. at kazansın.
+3-) Yatır Butonuna tıklanmadan yarış başlamayacak.!

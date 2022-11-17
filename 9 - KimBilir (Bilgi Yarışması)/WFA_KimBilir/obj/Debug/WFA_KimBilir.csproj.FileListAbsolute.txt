@@ -1,0 +1,11 @@
+C:\Full Stack Development Education - Bilge Adam\5.Hafta\3.Gün (Çarşamba)\Kurs\WFA_KimBilir\WFA_KimBilir\bin\Debug\WFA_KimBilir.exe.config
+C:\Full Stack Development Education - Bilge Adam\5.Hafta\3.Gün (Çarşamba)\Kurs\WFA_KimBilir\WFA_KimBilir\bin\Debug\WFA_KimBilir.exe
+C:\Full Stack Development Education - Bilge Adam\5.Hafta\3.Gün (Çarşamba)\Kurs\WFA_KimBilir\WFA_KimBilir\bin\Debug\WFA_KimBilir.pdb
+C:\Full Stack Development Education - Bilge Adam\5.Hafta\3.Gün (Çarşamba)\Kurs\WFA_KimBilir\WFA_KimBilir\obj\Debug\WFA_KimBilir.csproj.AssemblyReference.cache
+C:\Full Stack Development Education - Bilge Adam\5.Hafta\3.Gün (Çarşamba)\Kurs\WFA_KimBilir\WFA_KimBilir\obj\Debug\WFA_KimBilir.csproj.SuggestedBindingRedirects.cache
+C:\Full Stack Development Education - Bilge Adam\5.Hafta\3.Gün (Çarşamba)\Kurs\WFA_KimBilir\WFA_KimBilir\obj\Debug\WFA_KimBilir.Form1.resources
+C:\Full Stack Development Education - Bilge Adam\5.Hafta\3.Gün (Çarşamba)\Kurs\WFA_KimBilir\WFA_KimBilir\obj\Debug\WFA_KimBilir.Properties.Resources.resources
+C:\Full Stack Development Education - Bilge Adam\5.Hafta\3.Gün (Çarşamba)\Kurs\WFA_KimBilir\WFA_KimBilir\obj\Debug\WFA_KimBilir.csproj.GenerateResource.cache
+C:\Full Stack Development Education - Bilge Adam\5.Hafta\3.Gün (Çarşamba)\Kurs\WFA_KimBilir\WFA_KimBilir\obj\Debug\WFA_KimBilir.csproj.CoreCompileInputs.cache
+C:\Full Stack Development Education - Bilge Adam\5.Hafta\3.Gün (Çarşamba)\Kurs\WFA_KimBilir\WFA_KimBilir\obj\Debug\WFA_KimBilir.exe
+C:\Full Stack Development Education - Bilge Adam\5.Hafta\3.Gün (Çarşamba)\Kurs\WFA_KimBilir\WFA_KimBilir\obj\Debug\WFA_KimBilir.pdb

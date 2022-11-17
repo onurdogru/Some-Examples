@@ -1,0 +1,22 @@
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\bin\Debug\WFA_AracKAyıt.exe.config
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\bin\Debug\WFA_AracKAyıt.exe
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\bin\Debug\WFA_AracKAyıt.pdb
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\obj\Debug\WFA_AracKAyıt.csproj.AssemblyReference.cache
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\obj\Debug\WFA_AracKAyıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\obj\Debug\WFA_AracKAyıt.Form1.resources
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\obj\Debug\WFA_AracKAyıt.Properties.Resources.resources
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\obj\Debug\WFA_AracKAyıt.csproj.GenerateResource.cache
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\obj\Debug\WFA_AracKAyıt.csproj.CoreCompileInputs.cache
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\obj\Debug\WFA_AracKAyıt.exe
+C:\Users\Groovy Primat\Desktop\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\obj\Debug\WFA_AracKAyıt.pdb
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\bin\Debug\WFA_AracKAyıt.exe.config
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\bin\Debug\WFA_AracKAyıt.exe
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\bin\Debug\WFA_AracKAyıt.pdb
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\obj\Debug\WFA_AracKAyıt.csproj.AssemblyReference.cache
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\obj\Debug\WFA_AracKAyıt.csproj.SuggestedBindingRedirects.cache
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\obj\Debug\WFA_AracKAyıt.Form1.resources
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\obj\Debug\WFA_AracKAyıt.Properties.Resources.resources
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\obj\Debug\WFA_AracKAyıt.csproj.GenerateResource.cache
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\obj\Debug\WFA_AracKAyıt.csproj.CoreCompileInputs.cache
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\obj\Debug\WFA_AracKAyıt.exe
+C:\Full Stack Development Education - Bilge Adam\4.Hafta\3.Gün\K  Klasör\WFA_AracKAyıt\WFA_AracKAyıt\obj\Debug\WFA_AracKAyıt.pdb
